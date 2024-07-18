@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": "^8.0",
         "ext-xsl": "*",
         "ext-dom": "*",
         "ezsystems/ezplatform-kernel": "^1.0",
